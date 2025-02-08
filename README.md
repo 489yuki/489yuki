@@ -1,6 +1,26 @@
+# Development Experience
 
+## Health Care App (2023-2025)
+- Building a comprehensive healthcare platform using modern tech stack
+- **Technologies:**
+  - Next.js 
+  - Golang Backend (2023 - 2025)
+  - iOS Development with SwiftUI (2024 - 2025)
+  - Android Development with Jetpack Compose (2024 - 2025)
 
+## Photo Community App (2022-2023)
+- Developed a social platform for photographers
+- **Technologies:**
+  - Next.js
+  - Firebase/Firestore
 
-<img src="https://github-readme-stats.vercel.app/api?username=489yuki&count_private=true&show_icons=true&theme=dracula" alt="489yuki_1" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=489yuki&layout=compact&theme=dracula" alt="489yuki_2" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=489yuki&theme=dracula" />
+## Corporate Site (2020-2021)
+- Created a modern corporate website using JAMstack architecture
+- **Technologies:**
+  - Next.js
+  - wordpress
+
+## Fitness App (2020-2021)
+- Built a mobile application for fitness tracking
+- **Technologies:**
+  - Flutter (2018-2020)
